@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".timer_fragment.Counter">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@drawable/counter_bg" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:alpha="75"
+        android:src="@drawable/counter_icon" />
+
+    <TextView
+        android:id="@+id/count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_0"
+        android:textColor="@color/maroom"
+        android:textSize="100sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"/>
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/plus_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:strokeColor="#EC0000"
+            app:strokeWidth="1dp"
+            android:text="+"
+            android:textSize="50sp"
+            android:textColor="@color/maroom"
+            android:backgroundTint="@color/light_grey1"/>
+        <Button
+            android:id="@+id/minus_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-"
+            android:layout_marginStart="75dp"
+            app:strokeColor="#EC0000"
+            app:strokeWidth="1dp"
+            android:textSize="50sp"
+            android:textColor="@color/maroom"
+            android:backgroundTint="@color/light_grey1"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/reset_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/light_grey"
+        android:ems="5"
+        android:padding="10dp"
+        android:text="@string/reset"
+        android:textColor="@color/maroom"
+        android:textSize="25sp"
+        android:layout_below="@+id/ll1"
+        android:layout_marginTop="15dp"
+        app:cornerRadius="100dp"
+        app:strokeColor="#EC0000"
+        app:strokeWidth="1dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

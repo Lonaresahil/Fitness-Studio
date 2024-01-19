@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".mudra.mudra_varun">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VARUN MUDRA (Gesture of Water)"
+        android:textColor="@color/maroom"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:padding="@dimen/_10sdp"
+        android:gravity="center_horizontal"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/varun_mudra"
+        android:layout_marginVertical="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/varunMudra"
+        android:textSize="15sp"
+        android:textColor="#BC750606"
+        android:padding="@dimen/_30sdp"/>
+
+
+</LinearLayout>

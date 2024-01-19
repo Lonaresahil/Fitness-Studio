@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".weight.Weight">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/weight_shape" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/weight"
+        android:textSize="40sp"
+        android:textColor="@color/maroom"
+        android:textStyle="bold"
+        android:layout_marginTop="375dp"
+        android:layout_marginStart="15dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="400dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/gain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#F6F5F5"
+            android:ems="7"
+            android:padding="5dp"
+            android:text="gain"
+            android:textColor="@color/maroom"
+            android:textSize="25sp"
+            app:cornerRadius="100dp"
+            app:strokeColor="#EC0000"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/maintain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#F6F5F5"
+            android:layout_marginTop="5dp"
+            android:ems="7"
+            android:padding="5dp"
+            android:text="Maintain"
+            android:textColor="@color/maroom"
+            android:textSize="25sp"
+            app:cornerRadius="100dp"
+            app:strokeColor="#EC0000"
+            app:strokeWidth="1dp" />
+
+        <Button
+            android:id="@+id/lose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#F6F5F5"
+            android:layout_marginTop="5dp"
+            android:ems="7"
+            android:padding="5dp"
+            android:text="Lose"
+            android:textColor="@color/maroom"
+            android:textSize="25sp"
+            app:cornerRadius="100dp"
+            app:strokeColor="#EC0000"
+            app:strokeWidth="1dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

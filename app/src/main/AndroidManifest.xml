@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication" >
+        <activity
+            android:name=".splash.Splash"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudra_prana"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudra_varun"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudra_surya"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudra_prithvi"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudra_vayu"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.gyana_mudra"
+            android:exported="false" />
+        <activity
+            android:name=".mudra.mudras"
+            android:exported="false" />
+        <activity
+            android:name=".water.notification"
+            android:exported="false" />
+        <activity
+            android:name=".notes.activities.notes_CreateNotes"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".notes.activities.notes1"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".navigation_view.header"
+            android:exported="false" />
+        <activity
+            android:name=".water.water_intake"
+            android:exported="false" />
+        <activity
+            android:name=".sign_up_process.Verify_Email"
+            android:exported="false" />
+        <activity
+            android:name=".navigation_view.resetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".navigation_view.profile"
+            android:exported="false" />
+        <activity
+            android:name=".menstrual.Menstrual2"
+            android:exported="false" />
+        <activity
+            android:name=".calendar"
+            android:exported="false" />
+        <activity
+            android:name=".yoga.yogasnext"
+            android:exported="false" />
+        <activity
+            android:name=".yoga.yoga2"
+            android:exported="false" />
+        <activity
+            android:name=".yoga.yoga"
+            android:exported="false" />
+        <activity
+            android:name=".calculators.Ideal_Weight_calculator"
+            android:exported="false" />
+        <activity
+            android:name=".calculators.BMI_Calculator"
+            android:exported="false" />
+        <activity
+            android:name=".calculators.Calculator"
+            android:exported="false" />
+        <activity
+            android:name=".calculators.calorie_calculator"
+            android:exported="false" />
+        <activity
+            android:name=".weight.Weight_lose"
+            android:exported="false" />
+        <activity
+            android:name=".weight.Weight_maintain"
+            android:exported="false" />
+        <activity
+            android:name=".weight.weight_gain"
+            android:exported="false" />
+        <activity
+            android:name=".yoga.yogas"
+            android:exported="false" />
+        <activity
+            android:name=".Tips_Diet"
+            android:exported="false" />
+        <activity
+            android:name=".workout.workout_B18next"
+            android:exported="false" />
+        <activity
+            android:name=".workout.workout_A18next"
+            android:exported="false" />
+        <activity
+            android:name=".menstrual.Menstrual1"
+            android:exported="false" />
+        <activity
+            android:name=".workout.workout_Above18"
+            android:exported="false" />
+        <activity
+            android:name=".workout.workout_Below18"
+            android:exported="false" />
+        <activity
+            android:name=".workout.workout2"
+            android:exported="false" />
+        <activity
+            android:name=".weight.Weight"
+            android:exported="false" />
+        <activity
+            android:name=".workout.Workout1"
+            android:exported="false" />
+        <activity
+            android:name=".timer_fragment.Counter"
+            android:exported="false" />
+        <activity
+            android:name=".timer_fragment.Timer"
+            android:exported="true" />
+        <activity
+            android:name=".timer_fragment.Stopwatch"
+            android:exported="false" />
+        <activity
+            android:name=".mainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sign_in_process.forgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".sign_in_process.Login"
+            android:exported="false" />
+        <activity
+            android:name=".calculators.Age_Calculator"
+            android:exported="false" />
+        <activity
+            android:name=".sign_up_process.Started"
+            android:exported="false" />
+        <activity
+            android:name=".sign_up_process.join"
+            android:exported="false" />
+        <activity
+            android:name=".stepsCounter.ActivityStepCount"
+            android:exported="false" />
+        <activity
+            android:name=".splash.splash_first"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sign_up_process.Verify_Email">
+
+    <ImageView
+        android:id="@+id/up_design"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/join_up"
+        android:src="@drawable/up_design"
+        tools:ignore="ImageContrastCheck" />
+
+    <ImageView
+        android:id="@+id/down_design"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:contentDescription="@string/join_down"
+        android:src="@drawable/down_design"
+        tools:ignore="ImageContrastCheck" />
+
+
+
+    <TextView
+        android:id="@+id/verify_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please verify your Email Address"
+        android:textSize="30sp"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="@color/maroom"
+        android:gravity="center"
+        android:visibility="visible"
+        android:layout_marginTop="150dp"/>
+
+    <Button
+        android:id="@+id/verify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verify now"
+        android:visibility="visible"
+        android:layout_below="@+id/verify_tv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/instruct_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:gravity="center"
+        android:text="Please visit your Gmail to verify, do check the spam folder as well.."
+        android:textColor="@color/maroom"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <Button
+    android:id="@+id/verified"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Verified"
+    android:visibility="gone"
+    android:layout_below="@+id/instruct_tv"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="40dp"/>
+
+
+</RelativeLayout>

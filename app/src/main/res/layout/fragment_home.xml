@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp">
+
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Lets track your health!!"
+            android:textColor="@color/blue"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/tv_stepTrack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:text="to track your steps just click on the steps icon present below"
+            android:textColor="@color/blue"
+            android:textSize="15sp" />
+
+        <View
+            android:id="@+id/step_view"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/tv_stepTrack"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/step_background" />
+
+        <ImageView
+            android:id="@+id/step_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/tv_stepTrack"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="65dp"
+            android:contentDescription="@string/step"
+            android:src="@drawable/icon_metro_steps" />
+
+        <TextView
+            android:id="@+id/tv_steps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/step_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="Step Counter"
+            android:textColor="@color/maroom"
+            android:textSize="30sp" />
+
+        <View
+            android:id="@+id/water"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/tv_steps"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/water_background" />
+
+        <ImageView
+            android:id="@+id/water_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/water"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-80dp"
+            android:contentDescription="@string/step"
+            android:src="@drawable/water" />
+
+        <TextView
+            android:id="@+id/tv_water"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/water"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="Water Intake"
+            android:textColor="@color/maroom"
+            android:textSize="30sp" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

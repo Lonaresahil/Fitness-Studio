@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Fitness Studio</string>
+    <string name="plaintext">Welcome to experience a better and healthy life.</string>
+    <string name="image">family</string>
+    <string name="Button1">Button</string>
+    <string name="login">I\'m already a user</string>
+    <string name="register">I\'m new, sign me up</string>
+
+    <string name="img_acc">account</string>
+    <string name="join_hey">Hey there!!</string>
+    <string name="join_goodName">What is your good name?</string>
+    <string name="join_Name">Your Username</string>
+    <string name="join_up">up</string>
+    <string name="join_down">down</string>
+    <string name="join_acc">acc</string>
+    <string name="join_hello">hello</string>
+    <string name="join_nextArrow">nextArrow</string>
+
+    <string name="start_LetsGetStarted">Let\'s get started..</string>
+    <string name="start_emailId">Email id</string>
+    <string name="start_password">Set Password</string>
+    <string name="start_next">NEXT</string>
+    <string name="start_up">join_up</string>
+    <string name="start_down">join_down</string>
+    <string name="start_hide">start_hide</string>
+    <string name="start_email">start_email</string>
+    <string name="start_passkey">start_password</string>
+
+    <string name="forgot_pass">here\'s a solution Please enter your registered email address</string>
+    <string name="note">Note:  Instructions to change your password have been sent to the email address you entered if you are a registered user. Please check your spam folder if you do not receive it.</string>
+    <string name="birthdate">What\'s your Birthdate?</string>
+    <string name="set_birthdate">BirthDate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="timer">Timer</string>
+    <string name="explore">Explore</string>
+    <string name="activity">Activity</string>
+
+    <string name="_0">0</string>
+    <string name="step">step</string>
+    <string name="Yoga">Yoga &amp; Mudras</string>
+    <string name="menstrual_health">Menstrual Health</string>
+    <string name="Diet">Tips &amp; Diet</string>
+    <string name="workouts">Workouts</string>
+    <string name="weight">Weight</string>
+    <string name="calculator">Calculator</string>
+    <string name="maps">Map and Navigations</string>
+    <string name="notes">Notes and records</string>
+    <string name="set_goal">Set goal</string>
+    <string name="calender">Calender</string>
+    <string name="hms">H   M   S</string>
+    <string name="sleep_description">7–9 hours is recommended amount of sleep for age 18–64.</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="set">Set</string>
+    <string name="minutes">minutes</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="sleep_time">Sleep time</string>
+    <string name="counter">Counter</string>
+
+
+    <string name="how_to_do_this">How to do this</string>
+    <string name="jumping_jack_steps">STEPS:\n 1. Stand upright with your legs together, arms at your sides.\n 2. Bend your knees slightly, and jump into the air.\n 3. As you jump, spread your legs to be about shoulder-width apart. Stretch your arms out and over your head.\n 4. Jump back to starting position.\ 5. Repeat.</string>
+    <string name="mountain_climber_steps">STEPS:\n 1. Put both hands and knees on the floor.\n 2. Place your right foot near your right hand and extend your left leg behind you.\n 3. In one smooth motion, switch your legs, keeping your arms in the same position.\n 4. Switch your legs back and forth twice, such that your right leg is again close to your right hand.</string>
+    <string name="crunches_steps">STEPS:\n 1. Lie on your back with your feets up in the air an shown, hip-width apart.\n 2. Your knees making right angle and place your fingertips behind your ears with your elbows wide open.\n 3. Take a deep breath in.\n 4. Breathe out, squeeze your abs and lift your head, neck and shoulders up toward the ceiling.\n 4. Breathe in and return to the starting position.\n 5. Repeat 10 to 12 times for 5 rounds.</string>
+    <string name="leg_raise_steps">STEPS:\n 1. Lie on your back, legs straight and together.\n 2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n 3. Slowly lower your legs back down till they’re just above the floor. Hold for a moment.\n 4. Raise your legs back up. Repeat.</string>
+    <string name="push_ups_steps">STEPS:\n 1. Get down on all fours, placing your hands slightly wider than your shoulders.\n 2. Straighten your arms and legs.\n 3. Lower your body until your chest nearly touches the floor.\n 4. Pause, then push yourself back up.\n 5. Repeat.</string>
+    <string name="pull_ups_steps">STEPS:\n 1. Start with your hands on the bar approximately shoulder-width apart with your palms facing forward.\n 2. With arms extended above you, stick your chest out and curve your back slightly. That is your starting position.\n 3. Pull yourself up towards the bar using your back until the bar is at chest level while breathing out.\n 4. Slowly lower yourself to the starting position while breathing in. That is one rep.</string>
+    <string name="toe_touch_steps">STEPS:\n 1. Lay down on your back with your arms straight above your head.\n 2. Lift your left leg and right arm up at the same time.\n 3. Reach across your body and touch your toes. Bring your right arm and left leg back down.\n 4. Now lift the left arm and right leg and repeat the motion.\n 5. Alternate back and forth for the desired amount of repetitions.</string>
+    <string name="burpees_step">STEPS:\n 1. Stand with your feet shoulder-width apart.\n 2. Squat as deeply as you can and place your hands on the floor. Kick back into a push-up position. \n 3. Do one push-up. \n 4. Bring your legs back to a squat and jump up, throwing your hands above your head. \n 5. Land and repeat.</string>
+
+    <string name="lunges_step">STEPS:\n 1. Start in a standing position with your feet hip-width apart.\n 2. Step forward longer than a walking stride so one leg is ahead of your torso and the other is behind. Your foot should land flat and remain flat while it’s on the ground. Your rear heel will rise off of the ground.\n 3. Bend your knees to approximately 90 degrees as you lower yourself. Remember to keep your trunk upright and core engaged.\n 4. Then, forcefully push off from your front leg to return to the starting position.</string>
+    <string name="are_rotation_steps">STEPS:\n 1. Stretch out your both hands.\n 2. Slightly rotate them in clockwise for 4-amp5 times.\n 3. Now in anti-clockwise.</string>
+    <string name="front_back_steps">STEPS:\n 1. Stand with feet about hip-width apart\n 2. Place your hands on your hips or hold at your hands up at chest level.\n 3. Begin exercise by hopping forward and then immediately back. This completes one rep.\n 4. Repeat for the desired repetitions.</string>
+    <string name="High_knees_steps">STEPS:\n 1. Stand with your feet hip-width apart. Lift up your left knee to your chest.\n 2. Switch to lift your right knee to your chest. Continue the movement, alternating legs and moving at a sprinting or running pace.</string>
+    <string name="sideways_hop_step">STEPS: \n 1. Stand straight with your hands by your sides and your feet hip-width apart.\n 2. Jump with both feet to the right and then to the left, in a quick, repetitive movement.\n 3. Repeat until the set is complete. Proper Form And Breathing Pattern.</string>
+    <string name="standing_toetouch_steps">STEPS: \n 1. Start standing with your feet hip-distance apart.\n 2. Swing your right leg up and touch your left hand to your right toes. Keep your chest up!\n 3. Return to the starting position and repeat with your left leg, touching your right hand to your left toes.</string>
+    <string name="dance_step">Follow the step shown above</string>
+
+    <string name="des_gain">\n1. It’s very important to eat mostly healthy foods even when you’re trying to gain weight.\n2. If you want to gain weight slowly and steadily, aim for 300–500 calories more than you burn each day or Just consume and try to fulfill the calorie amount you got after calculating.\n3. More energy IN than OUT over time = weight gain</string>
+    <string name="des_maintain">1. Maintaining a healthy weight is important for health. In addition to lowering the risk of heart disease, stroke, diabetes, and high blood pressure, it can also lower the risk of many different cancers.\n2. Move more, eat less. Turning off the television and skipping the sugary drinks are two ways to get started\n3. Energy balance is important for maintaining a healthy weight. The amount of energy or calories you get from food and drinks (energy IN) is balanced with the energy your body uses for things like breathing, digesting, and being physically active (energy OUT):\n4. The same amount of energy IN and energy OUT over time = weight stays the same (energy balance).</string>
+    <string name="des_lose">1. People who have excess body fat, especially around the waist area are more likely to develop heart disease and stroke even if they have no other risk factors. Reducing excess weight can help reduce your heart disease risk. The most successful way of losing weight is by having a healthy balanced diet, managing portion sizes and increasing physical activity.\n2. The best approach for weight loss is reducing the number of calories you eat while increasing the number of calories you burn through physical activity. \n3. More energy OUT than IN over time = weight lose</string>
+    <string name="GainWeightResult">To gain weight your calorie comsumption should be equal to more than</string>
+    <string name="MaintainWeightResult">To maintain weight your calorie comsumption should be</string>
+    <string name="LoseWeightResult">To lose weight your calorie comsumption should be cut down to</string>
+
+    <string name="USTRASANA_steps">STEPS: \n1: Stand on knees with thighs straight knees and feet together.\n2: Lean in backward direction reaching right heel with right hand and left heel with left hand.\n3: Push hips forward, bend and spine as backward and as far as possible without straining.\n4: Keep arms such a way that they anchor shoulders and after wards release hands from heels one by one and return to starting position</string>
+    <string name="YOGA_SQUAT_POSE_steps">STEPS: \n1: Begin on feet, crouched down with tailbone between ankles and hands in prayer at chest.\n2: Continue to press hands firmly together while at the same time pressing elbows against inner thighs.\n3: Hold and breathe for 30 seconds</string>
+    <string name="TRIANGULAR_POSE_FACING_DOWN_steps">STEPS: \n1: Move your feet wider with shoulder wide apart and extend your arms. If starting with right side, right foot should be 90 degree and left 45 degree.\n2: Bend to the side with taking deep breath and exhale as you bend.\n3: Reach right foot with right arm and grab your ankle and left arm extending up.\n4: Turn your head and look up, briefly hold, return to starting position and repeat with left side</string>
+    <string name="TRIANGULAR_POSE_FACING_UP_steps">STEPS: \n1: Move your feet wider with shoulder wide apart and extend your arms. If starting with right side, right foot should be 90 degree and left 45 degree.\n2: Bend to the side with taking deep breath and exhale as you bend.\n3: Reach right foot with right arm and grab your ankle and left arm extending up.\n4: Turn your head and look down, briefly hold, return to starting position and repeat with left side</string>
+    <string name="CHILD_POSE_steps">STEPS: \n1: Kneel down on the floor and sit on your buttocks with big toes touching each other.\n2: Place your knees hip–width apart and inhale.\n3: Bend forward and exhale as you lay your torso between your thighs and swing hands forward.\n4: Hold this position for 2–3 minutes, breathe-in slowly and return to starting position.</string>
+    <string name="FORWARD_BENDING_TOE_TOUCH_steps">STEPS: \n1: Use hips to fold forward.\n 2: Keep back straight, lengthen the spine and hips aligned with heels.\n3: Wrap arms around legs with hands grasping heels.\n4: Press heels firmly into the ground</string>
+    <string name="VIRABHADRASANA_steps">STEPS: \n1: Stand straight. Keep your legs about 3 to 4 feet apart.\n2: Now raise your both arms parallel to the floor and turn your head to the left.\n3: Bend your left knee and make 90 degree angle. Keep angle of your arms and hips same 180 degree.\n4: Keep head straight to left and gaze at front. Hold this pose for few seconds and then repeat on other sides. </string>
+    <string name="VRIKSHASSANA_steps">STEPS: \n1: Stand straight, balance firmly on your left leg and lift your right leg, bend your right leg at knee.\n2: Place right foot inside of your left thigh toes facing downwards. Join palms as in prayer and lift arms upwards stretched.\n3: Hold position while breathing deeply.\n 4: Lower arms and separate palms and back to start position and repeat this with right leg</string>
+
+    <string name="gyanaMudra">GYANA MUDRA is considered as the gesture of knowledge. This mudra reduces tension and depression. This mudra increases the level of concentration builds mental power and sharpense your brain. If done regularly your mental and psychological disorder success angles stress anxiety depression and even in insomnia can be improved considerably. Practice this mudra for 30 to 45 minutes each day. You can perform it at one stretch or in 3 parts.(Like 10 to 15 minutes thrice a day)</string>
+    <string name="vayuMudra">Vayu Mudra balances the air element of your body. Vayu mudra take care of all the diseases and irregularities that can occur due to the air imbalance. Vayu mudra controls the restlessness nervousness and calms an uneasy mind. This mudra helps to release the excess air from the body reducing chest pain due to tapped gas. It is useful against paralysis and neck disorders.Practice this mudra for 30 to 45 minutes each day.</string>
+    <string name="prithviMudra">Prithvi mudra is for balancing the earth element in your body. This is also known as amazingmudra for glowing skin. This mudra improves the blood circulation throughout your body. It increases patience tolerance and concentration while meditating. Moreover, it also helps to strengthen weak and lean bones. Practice this mudra for 30 to 45 minutes daily.</string>
+    <string name="suryaMudra">Surya mudra balances the fire element in your body. This mudra helps to reduce the extra fat around your belly, boosts metabolism and controls obesity. It also helps to improve digestion and body strength. This mudra should be practised only in sitting position early in the morning with an empty stomach. So practice this mudra for 30 to 45 minutes daily.</string>
+    <string name="varunMudra">Varun mudra is for balancing the water element of your body it makes your skin glow because it makes the fluid in your body flow and keeps your skin moisturize and sure not to press the tip of the little finger near the nail that may cause dehydration instead of balancing the water level in your body this mudra helps to activate fluid circulation within the body keeping it moisturize it your skin diseases infections and prevents the appearance of pimple practice this mudhra for 30 to 45 minutes</string>
+    <string name="pranaMudra">Prana mudra balances the life element of your body. Prana mudra symbolizes energy or spirit of life. It provides energy and health. It improves eyesight, increases the body resistance to diseases, reduces deficiency of vitamins, and removes tiredness. Additionally, it reduces hunger pangs during fasting and gives you a good night\'s sleep. This is a very important mudra has it activates the energy in your body.so do it for 30 to 45 minutes daily.</string>
+
+
+    <string name="load_steps">Stop Steps</string>
+    <string name="start_steps">Start Steps</string>
+    <string name="number_of_steps">Number of Steps :</string>
+    <string name="steps_counter">Steps Counter</string>
+
+    <string name="ustrasana">Ustrasana</string>
+    <string name="triangular_pose_facing_down">Triangular pose facing down</string>
+    <string name="vrikshasana">Vrikshasana</string>
+    <string name="virabhadrasana">Virabhadrasana</string>
+    <string name="forward_bending_toe_touch">Forward bending toe touch</string>
+    <string name="childpose">Child pose</string>
+    <string name="triangular_pose_facing_up">Triangular pose facing up</string>
+    <string name="yoga_squat_pose">Yoga Squat Pose</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="detail_story">
+        <item>Include protein with every meal:- Including some protein with every meal can help balance blood sugar.</item>
+        <item>Eat oily fish:- omega-3 fatty acids in oily fish are essential for cell signaling, gene expression, and brain and eye development.</item>
+        <item>Eat whole grains:- The American Heart Association (AHA)Trusted Source recommend people eat whole grains rather than refined grains.</item>
+        <item>Eat a rainbow:- The saying ‘eat a rainbow’ helps remind people to eat different colored fruits and vegetables.</item>
+        <item>Eat your greens:- Dark green leafy vegetables are a great source of nutrition.</item>
+        <item>Include healthful fats:- People should limit their intake of saturated fats while avoiding trans fats, and replace it by unsaturated fats.</item>
+        <item>Use extra virgin olive oil:- As part of the Mediterranean diet, extra virgin olive oil has benefits to the heart, blood pressure, and weight.</item>
+        <item>Eat nuts:- Eating one serving of nuts daily benefit health and prevent long-term weight gain.</item>
+        <item>Get enough fiber:- Fiber can help improve blood cholesterol levels and lower the risk of heart disease, obesity, and diabetes.</item>
+        <item>Increase plant foods:- plant-based diets may help prevent overweight and obesity.</item>
+        <item>Try beans and pulses:- Beans and pulses are a good source of protein for people on a plant-based diet. Beans and pulses also contain beneficial fiber, vitamins, and minerals.</item>
+        <item>Drink water:- Drinking enough water every day is good for overall health and can help manage body weight.</item>
+        <item>Enjoy coffee:- A moderate coffee consumption of 3–5 cups a day can reduce the risk of: type 2 diabetes, Alzheimer’s disease, Parkinson’s disease &amp; cardiovascular diseases.</item>
+        <item>Drink herbal teas:- Catechins in green, black, and other herbal teas may have antimicrobial properties.</item>
+        <item>Reduce sugar:- Dietary sugar, dextrose, and high fructose corn syrup may increase the risk of cardiovascular disease and metabolic syndrome.</item>
+        <item>Drink alcohol in moderation:- If someone consumes alcohol, it should be in moderation.</item>
+        <item>Avoid sugary drinks:- People should limit their consumption of sugary drinks and preferably drink water instead.</item>
+        <item>Eat less red and processed meat:- Participants who swapped meat for other protein sources, such as fish, nuts, and eggs, had a lower risk of death in the eight-year study period.</item>
+        <item>Avoid processed foods:- Eating ultra-processed foods can increase the risk of many diseases, including cancer, irritable bowel syndrome, and depression.</item>
+        <item>Support your microbiome:- A high quality, balanced diet supports microbial diversity and can influence the risk of chronic diseases.</item>
+        <item>Consider a vitamin D supplement:- The recommended dietary allowance for vitamin D is 15 micrograms or 600 international unitsTrusted Source per day for adults.</item>
+        <item>Be aware of portion size:- Being aware of portion sizes can help people manage their weight and diet.</item>
+        <item>Use herbs and spices:- Using herbs and spices in cooking can liven up a meal and have additional health benefits.</item>
+        <item>Give your body a rest by fasting:- Intermittent fasting involves not eating either overnight or some days of the week. This may reduce energy intake and can have health benefits.</item>
+        <item> Wash fruits and vegetables:- Raw fruits and vegetables can contain harmful germs that could make someone sick. Always wash fresh produce when eating them raw.</item>
+        <item>Do not microwave in plastic containers:- Microwaving food in plastic containers can release phthalates, which can disrupt hormones.</item>
+        <item>Eat varied meals:- Many people eat the same meals regularly. Varying foods and trying different cuisines can help someone achieve their required nutrient intake</item>
+        <item>Eat mindfully:- Mindful eating helped adults with obesity eat fewer sweets and manage their blood glucose. Mindfulness can bring greater awareness to food triggers and habits in people with diabetes.</item>
+
+    </string-array>
+</resources>
